@@ -1,0 +1,29 @@
+com/miftarom/sablonapp/users/Login.java
+ com.miftarom.sablonapp.users.Login
+com/miftarom/sablonapp/users/HomUser.java
+ com.miftarom.sablonapp.users.HomUser
+com/miftarom/sablonapp/BuildConfig.java
+ com.miftarom.sablonapp.BuildConfig
+com/miftarom/sablonapp/MainActivity.java
+ com.miftarom.sablonapp.MainActivity
+com/miftarom/sablonapp/admin/HomAdmin2.java
+ com.miftarom.sablonapp.admin.HomAdmin2
+com/miftarom/sablonapp/users/Regis.java
+ com.miftarom.sablonapp.users.Regis
+com/miftarom/sablonapp/pelanggan/Etalase.java
+ com.miftarom.sablonapp.pelanggan.Etalase
+com/miftarom/sablonapp/R2.java
+ com.miftarom.sablonapp.R2
+ com.miftarom.sablonapp.R2$anim
+ com.miftarom.sablonapp.R2$attr
+ com.miftarom.sablonapp.R2$bool
+ com.miftarom.sablonapp.R2$color
+ com.miftarom.sablonapp.R2$dimen
+ com.miftarom.sablonapp.R2$drawable
+ com.miftarom.sablonapp.R2$id
+ com.miftarom.sablonapp.R2$integer
+ com.miftarom.sablonapp.R2$layout
+ com.miftarom.sablonapp.R2$plurals
+ com.miftarom.sablonapp.R2$string
+ com.miftarom.sablonapp.R2$style
+ com.miftarom.sablonapp.R2$styleable
